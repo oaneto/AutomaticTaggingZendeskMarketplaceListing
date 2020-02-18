@@ -1,0 +1,18 @@
+{
+  "name": "Automatic Tagging by Chatdesk",
+  "author": {
+    "name": "Chatdesk",
+    "email": "support@chatdesk.com",
+    "url": "https://www.chatdesk.com"
+  },
+  "location": {
+    "support": {
+    },
+    "chat": {
+    }
+  },
+  "defaultLocale": "en",
+  "marketingOnly": true,
+  "private": false,
+  "gaID": "UA-76788111-5"
+}
